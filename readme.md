@@ -1,4 +1,4 @@
-# Dataset de simplificação de frases cotidianas em português
+# Gerador de Dataset de simplificação de frases cotidianas em português
 
 Projeto em Python que gera frases em português brasileiro e versões
 simplificadas usando um modelo local servido pelo [Ollama](https://ollama.com/).
