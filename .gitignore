@@ -1,0 +1,20 @@
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# Generated intermediate data
+checkpoint.json
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
